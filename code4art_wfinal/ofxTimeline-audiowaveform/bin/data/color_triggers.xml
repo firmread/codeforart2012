@@ -1,0 +1,38 @@
+<triggers>
+    <trigger>
+        <point>0.351751</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.396791</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.421771</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.544152</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.561659</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.579978</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.609954</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.615826</point>
+        <name>new trigger</name>
+    </trigger>
+    <trigger>
+        <point>0.73541</point>
+        <name>new trigger</name>
+    </trigger>
+</triggers>

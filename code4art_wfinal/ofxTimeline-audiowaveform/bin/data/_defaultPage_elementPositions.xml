@@ -1,0 +1,14 @@
+<positions>
+    <element name="Colors">
+        <x>0</x>
+        <y>357</y>
+        <width>1024</width>
+        <height>217</height>
+    </element>
+    <element name="Track">
+        <x>0</x>
+        <y>327</y>
+        <width>1024</width>
+        <height>0</height>
+    </element>
+</positions>
